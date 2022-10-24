@@ -24,6 +24,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.unmus.androidtraining.ui.theme.AndroidTrainingTheme
 import com.unmus.androidtraining.ui.theme.Purple500
+import com.unmus.androidtraining.R
 
 class tugasprofile : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
